@@ -1,0 +1,15 @@
+C:\Projetos\TheGame\bin\Debug\net6.0\TheGame.exe
+C:\Projetos\TheGame\bin\Debug\net6.0\TheGame.deps.json
+C:\Projetos\TheGame\bin\Debug\net6.0\TheGame.runtimeconfig.json
+C:\Projetos\TheGame\bin\Debug\net6.0\TheGame.dll
+C:\Projetos\TheGame\bin\Debug\net6.0\TheGame.pdb
+C:\Projetos\TheGame\obj\Debug\net6.0\TheGame.csproj.AssemblyReference.cache
+C:\Projetos\TheGame\obj\Debug\net6.0\TheGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TheGame\obj\Debug\net6.0\TheGame.AssemblyInfoInputs.cache
+C:\Projetos\TheGame\obj\Debug\net6.0\TheGame.AssemblyInfo.cs
+C:\Projetos\TheGame\obj\Debug\net6.0\TheGame.csproj.CoreCompileInputs.cache
+C:\Projetos\TheGame\obj\Debug\net6.0\TheGame.dll
+C:\Projetos\TheGame\obj\Debug\net6.0\refint\TheGame.dll
+C:\Projetos\TheGame\obj\Debug\net6.0\TheGame.pdb
+C:\Projetos\TheGame\obj\Debug\net6.0\TheGame.genruntimeconfig.cache
+C:\Projetos\TheGame\obj\Debug\net6.0\ref\TheGame.dll
